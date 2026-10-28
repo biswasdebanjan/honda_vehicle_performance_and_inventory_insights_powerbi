@@ -299,7 +299,7 @@ honda-vehicle-performance-and-inventory-insights/
 ## Author
 
 **Debanjan Biswas**  
-Data Analyst | Power BI | SQL | Python  
+Data Analyst  Excel | Power BI | SQL | Python  
 **Email:** [bishwasdebanjan99@gmail.com](mailto:bishwasdebanjan99@gmail.com)
 
 This project was developed as a practical exercise to strengthen Power BI and Data Analytics skills, with the goal of turning hands-on learning into a professional portfolio project.
